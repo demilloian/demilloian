@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ian
 
-<!--
-**demilloian/demilloian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Tester with experience in manual testing and growing skills in Playwright automation and API testing.
 
-Here are some ideas to get you started:
+## Tools
+- Playwright
+- TypeScript
+- Postman
+- GitHub Actions
+- Allure Report
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+- [Playwright API Automation CRUD](https://github.com/demilloian/playwright-api-automation-crud)
+
+## Goal
+To build reliable automation frameworks and grow into a strong QA Automation Engineer.
