@@ -1,4 +1,5 @@
 # Hi, I'm Ian 👋
+🚀 QA Tester | Playwright Automation | API Testing | TypeScript
 
 QA Tester focused on **Manual Testing, API Testing, and Playwright Automation**.
 
