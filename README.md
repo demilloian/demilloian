@@ -48,8 +48,8 @@ To become a **QA Automation Engineer** specializing in reliable, scalable test a
 
 ## 📫 Contact Me
 
-- LinkedIn: (add your link here)
-- Email: (add your email here)
+- LinkedIn: https://www.linkedin.com/in/c-m-d/
+- Email: demilloian@gmail.com
 
 ---
 
