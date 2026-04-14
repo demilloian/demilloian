@@ -25,11 +25,11 @@ I have experience in identifying bugs, validating systems, and building automati
 ### 🔹 Playwright API Automation – Booking CRUD  
 👉 https://github.com/demilloian/playwright-api-automation-crud
 
-- Full CRUD API automation using Playwright
-- Reusable helper functions
-- Positive & negative test coverage
-- Allure reporting integration
-- CI pipeline using GitHub Actions
+- Built a reusable Playwright API automation framework
+- Implemented full CRUD validation (POST, GET, PUT, PATCH, DELETE)
+- Added positive and negative test scenarios
+- Integrated Allure reporting for test visibility
+- Implemented CI pipeline using GitHub Actions
 
 ---
 
@@ -44,6 +44,13 @@ I have experience in identifying bugs, validating systems, and building automati
 ## 🎯 Career Goal
 
 To become a **QA Automation Engineer** specializing in reliable, scalable test automation frameworks.
+
+---
+
+## 🔧 Currently Building
+
+- Playwright UI automation project
+- Improving CI pipelines for test automation
 
 ---
 
